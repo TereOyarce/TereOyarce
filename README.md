@@ -20,6 +20,7 @@ I seek to contribute to this world with my ideas.</strong></h3>
 
 ```javascript
 const tereOyarce = {
+  pronous: "she" | "her";
   education: ["Illustrator-DuocUc","FrontEnd Dev-Laboratoria"];
   otherAlias: ["FrontEnd Dev Jr", "Illustrator"];
   codesIn: ["Javascript", "HTML", "CSS"];
