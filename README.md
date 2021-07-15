@@ -24,6 +24,7 @@ const tereOyarce = {
   otherAlias: ["FrontEnd Dev Jr", "Illustrator"];
   codesIn: ["Javascript", "HTML", "CSS"];
   toolsUsing: ["Firebase", "Figma" ,"Node","Jest" ,"Adobe Ai","Adobe PS"],
+  interests : ["Play videogames", "French fries", "all the cats in the world"]; 
   funFact: "The error is always in;";
  
 availableForHire: true
