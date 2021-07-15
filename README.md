@@ -6,7 +6,7 @@
 <h3 align="left"><strong>
 I seek to contribute to this world with my ideas.</strong></h3>
 
-<a target="_blank" href="https://www.linkedin.com/in/teresa-oyarce-palma-">
+<a target="_blank" href="https://www.linkedin.com/in/teresa-oyarce-palma">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="Linkedin Badge">
 </a>
 <a target="_blank" href="https://behance.net/teresaoyarce/">
