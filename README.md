@@ -21,12 +21,12 @@ I seek to contribute to this world with my ideas.</strong></h3>
 ```javascript
 const tereOyarce = {
   pronous: "she" | "her";
-  education: ["Illustrator-DuocUc","FrontEnd Dev-Laboratoria"];
-  otherAlias: ["FrontEnd Dev Jr", "Illustrator"];
-  codesIn: ["Javascript", "HTML5", "CSS"];
+  education: ["Illustrator-DuocUc","FrontEnd Dev-Laboratoria"],
+  otherAlias: ["FrontEnd Dev Jr", "Illustrator"],
+  codesIn: ["Javascript", "HTML5", "CSS"],
   toolsUsing: ["Firebase", "Figma" ,"NodeJS" ,"Adobe Ai","Adobe PS"],
-  interests : ["Play videogames", "French fries", "all the cats in the world","C.Tangana"]; 
-  funFact: "The error is always in;";
+  interests : ["Play videogames", "French fries", "all the cats in the world","C.Tangana"],
+  funFact: "The error is always in;",
  
 availableForHire: true
 };
