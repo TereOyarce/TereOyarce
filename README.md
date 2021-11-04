@@ -26,9 +26,9 @@ const tereOyarce = {
   codesIn: ["Javascript", "HTML5", "CSS" , "React","TypeScript","Angular"],
   toolsUsing: ["Firebase", "Figma" ,"NodeJS" ,"Adobe Ai","Adobe PS"],
   interests : ["Play videogames", "French fries", "all the cats in the world","C.Tangana"],
-  funFact: "The error is always in;",
+  
  
-availableForHire: true
+availableForHire: false
 };
 ```
    
