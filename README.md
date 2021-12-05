@@ -24,8 +24,8 @@ const tereOyarce = {
   education: ["Illustrator-DuocUc","FrontEnd Dev-Laboratoria"],
   otherAlias: ["FrontEnd Dev Jr", "Illustrator"],
   codesIn: ["Javascript", "HTML5", "CSS" , "React","TypeScript","Angular"],
-  toolsUsing: ["Firebase", "Figma" ,"NodeJS" ,"Adobe Ai","Adobe PS"],
-  interests : ["Play videogames", "French fries", "all the cats in the world","C.Tangana"],
+  toolsUsing: ["Firebase", "Figma" ,"NodeJS" ,"Adobe Ai","Adobe PS","Git","Azure","Github"],
+  interests : ["Play videogames", "French fries", "all the cats in the world"],
   
  
 availableForHire: false
