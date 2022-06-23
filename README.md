@@ -1,6 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/9AI3FgYKaD5H72MYIU/giphy.gif" height="160px" width="auto">
 
-<h1 align="left"><img src="https://media.giphy.com/media/3Z15tYnDbS0HNLg5ER/giphy.gif" width="30px"><strong> Hello There, I'm <a href="https://sidbelbase.me">Teresa( Tere )Oyarce</a></strong>
+<h1 align="left"><strong> Hello There, I'm <a href="https://sidbelbase.me">Teresa( Tere )Oyarce</a></strong>
 </h1>
 
 <h3 align="left"><strong>
@@ -24,7 +24,7 @@ const tereOyarce = {
   education: ["Illustrator-DuocUc","FrontEnd Dev-Laboratoria"],
   otherAlias: ["FrontEnd Dev Jr", "Illustrator"],
   codesIn: ["Javascript", "HTML5", "CSS" , "React","TypeScript","Angular"],
-  toolsUsing: ["Firebase", "Figma" ,"NodeJS" ,"Adobe Ai","Adobe PS","Git","Azure","Github"],
+  toolsUsing: ["Firebase", "Figma" ,"NodeJS","PgAdmin4" ,"Adobe Ai","Adobe PS","Git","Azure","Github"],
   interests : ["Play videogames", "French fries", "all the cats in the world"],
   
  
