@@ -28,7 +28,7 @@ const tereOyarce = {
   interests : {"Play videogames", "French fries", "all the cats in the world"},
   
  
-availableForHire: false
+availableForHire: true
 };
 ```
    
