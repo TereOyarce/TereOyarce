@@ -20,12 +20,12 @@ I seek to contribute to this world with my ideas.</strong></h3>
 
 ```javascript
 const tereOyarce = {
-  pronous: "she" | "her",
-  education: ["Illustrator-DuocUc","FrontEnd Dev-Laboratoria"],
-  otherAlias: ["FrontEnd Dev Jr", "Illustrator"],
-  codesIn: ["Javascript", "HTML5", "CSS" , "React","TypeScript","Angular"],
-  toolsUsing: ["Firebase", "Figma" ,"NodeJS","PgAdmin4" ,"Adobe Ai","Adobe PS","Git","Azure","Github"],
-  interests : ["Play videogames", "French fries", "all the cats in the world"],
+  pronous: {"she" . "her"},
+  education: {"Illustrator-DuocUc","FrontEnd Dev-Laboratoria"},
+  otherAlias: {"FrontEnd Dev Jr", "Illustrator"},
+  codesIn: {"Javascript", "HTML5", "CSS" , "React","TypeScript","Angular"},
+  toolsUsing: {"Firebase", "Figma" ,"NodeJS","PgAdmin4" ,"Adobe Ai","Adobe PS","Git","Azurev DevOps","Github","Jenkins","Kubernetes","Docker"},
+  interests : {"Play videogames", "French fries", "all the cats in the world"},
   
  
 availableForHire: false
